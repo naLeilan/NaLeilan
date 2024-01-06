@@ -36,8 +36,9 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" height="30" alt="webpack logo"  />
   <img width="5" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
-  <i class=”devicon-bootstrap-plain-wordmark colored”></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css" height="30" class=”devicon-bootstrap-plain-wordmark colored”  />
+  <img width="5" />
+ 
 </div>
 
 <h3 align="left">Stars</h3>
