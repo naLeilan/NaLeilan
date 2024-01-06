@@ -30,7 +30,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/PL/SQL-red?logo=oracle&logoColor=white&style=for-the-badge" height="30" alt="pl/sql logo"  />
+  <img src="https://img.shields.io/badge/PL/SQL-F80001?logo=oracle&logoColor=white&style=for-the-badge" height="30" alt="pl/sql logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Oracle-D12123?logo=oracle&logoColor=white&style=for-the-badge" height="30" alt="oracle logo"  /> 
   <img width="5" />
