@@ -38,10 +38,11 @@
   <img width="5" />
    
 </div>
-<--
+<!--
 <h3 align="left">Stars</h3>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeilanNaeimi&layout=compact&theme=" alt=LeilanNaeimi />
-
+-->
+<!--
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeilanNaeimi&show_icons=true&locale=en&theme=" alt="LeilanNaeimi" /></p>
 -->
 
