@@ -32,7 +32,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/PL/SQL-red?logo=oracle&logoColor=white&style=for-the-badge" height="30" alt="pl/sql logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white&style=for-the-badge" height="30" alt="oracle logo"  /> 
+  <img src="https://img.shields.io/badge/Oracle-d83f3f?logo=oracle&logoColor=white&style=for-the-badge" height="30" alt="oracle logo"  /> 
   <img width="5" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" height="30" alt="webpack logo"  />
   <img width="5" />
