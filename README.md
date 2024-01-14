@@ -36,6 +36,9 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" height="30" alt="webpack logo"  />
   <img width="5" />
+   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img width="5" />
+ 
    
 </div>
 <!--
