@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/NaLeilan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="NaLeilan" height="30" width="40" /></a><a href="https://linkedin.com/in/leilannaeimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="leilannaeimi" height="30" width="40" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
+# 🔧 Technologies & Tools
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="5" />
