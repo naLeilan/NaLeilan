@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeilanNaeimi&label=Profile%20views&color=0e75b6&style=flat" alt="LeilanNaeimi" /> </p>
 
 
-- 🌱 I’m currently learning **React and Typescript.
+- 🌱 I’m currently learning React and Typescript.
 - 📫 How to reach me **leilan.n@gmail.com**
 - ⚡ **Self study**
 
