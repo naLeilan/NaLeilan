@@ -70,7 +70,12 @@
       />
       <br /><strong>Sass</strong>
       </td>
-      <td align="center" height="108" width="108">
+  </tr>
+</table>
+
+  <table>
+  <tr>
+     <td align="center" height="108" width="108">
     <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg"
         width="48"
@@ -88,10 +93,10 @@
       />
       <br /><strong>PL/SQL</strong>
       </td>
-  
-    
-  </tr>
+      </tr>
 </table>
+
+
   <table>
   <tr>
     <td align="center" height="108" width="108"> 
