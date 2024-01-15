@@ -129,7 +129,4 @@
       </tr>
 </table>
 
-<h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LeilanNaeimi&theme=react-dark"/>
-
  
