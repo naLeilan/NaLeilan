@@ -94,8 +94,7 @@
 </table>
   <table>
   <tr>
-    <td align="center" height="108" width="108">
- <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108"> 
    <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
          width="48"
