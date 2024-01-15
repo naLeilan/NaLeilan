@@ -88,15 +88,7 @@
       />
       <br /><strong>PL/SQL</strong>
       </td>
-   <td align="center" height="108" width="108">
-   <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>GIT</strong>
-      </td>
+  
     
   </tr>
 </table>
@@ -111,6 +103,15 @@
         alt="React"
       />
       <br /><strong>Npm</strong>
+      </td>
+     <td align="center" height="108" width="108">
+   <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>GIT</strong>
       </td>
     <td align="center" height="108" width="108">
       <img
