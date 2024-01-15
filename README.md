@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leilan</h1>
-<h3 align="center">Front-End Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeilanNaeimi&label=Profile%20views&color=0e75b6&style=flat" alt="LeilanNaeimi" /> </p>
+<h3 align="center">Front-End Developer</h3> 
 
 
 - 🌱 I’m currently learning React and Typescript.
