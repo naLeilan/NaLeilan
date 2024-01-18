@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leilan</h1>
+
+<img align="left" alt="girl coding" width="335" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
+
+  
 <h3 align="center">Front-End Developer</h3> 
 
 
