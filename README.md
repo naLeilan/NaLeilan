@@ -6,7 +6,7 @@
 <h3 align="center">Front-End Developer</h3> 
 
 
-- 🌱 I’m currently learning React and Typescript.
+- 🌱 I’m currently learning Reactjs.
 - 📫 How to reach me **leilan.n@gmail.com**
 - ⚡ **Self study**
 
@@ -46,15 +46,7 @@
       />
       <br /><strong>JavaScript</strong>
       </td>
-       <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"
-        width="48"
-        height="48"
-        alt="TypeScript"
-      />
-      <br /><strong>TypeScript</strong>
-      </td>
+      
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
