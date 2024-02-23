@@ -14,8 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.twitter.com/NaLeilan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="https://linkedin.com/in/leilannaeimi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="leilannaeimi" height="30" width="40" /></a></p>
+  
+<a href="https://www.linkedin.com/in/leilannaeimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+    
+    </p>
 
 # 🔧 Technologies & Tools
 
