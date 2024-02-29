@@ -3,7 +3,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=scss,jest)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,npm)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=scss,jest)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,npm)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=oracle,pl/sql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
   
 ### Socials:
@@ -37,37 +37,5 @@
       </tr>
 </table>
 
-
-  <table>
-  <tr>
-    <td align="center" height="108" width="108"> 
-   <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-         width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>Npm</strong>
-      </td>
-     <td align="center" height="108" width="108">
-   <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>GIT</strong>
-      </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="48"
-        height="48"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
-    </td>
-      </tr>
-</table>
 
  
