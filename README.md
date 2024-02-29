@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Leilan</h1>
-<!-- <div>
-<img align="left" alt="girl coding" width="335" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
-</div> -->
-  
-<h3 align="center">Front-End Developer</h3> 
+🌍  I am a Front-End Developer.
+<br/>
 
+### Skills
 
-- 🌱 I’m currently learning Reactjs.
-- 📫 How to reach me **leilan.n@gmail.com**
-- ⚡ **Self study**
-
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+<br/>
   
 ### Socials:
 <p align="left">
