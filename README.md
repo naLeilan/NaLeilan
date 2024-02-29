@@ -14,49 +14,7 @@
 
 # 🔧 Technologies & Tools:
 
-<table>
-  <tr>
-     
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JavaScript</strong>
-      </td>   
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>Reactjs</strong>
-      </td>
-      <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>Sass</strong>
-      </td>
-  </tr>
-</table>
-
-  <table>
+   <table>
   <tr>
      <td align="center" height="108" width="108">
     <img
