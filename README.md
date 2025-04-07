@@ -1,4 +1,5 @@
-🌍  I am a Front-End Developer.
+🌍  I am a Front-End Developer based in Germany.
+💻  Open to work!
 <br/>
 
 ### Skills
