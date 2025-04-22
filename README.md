@@ -1,4 +1,4 @@
-🌍  ### Hey, I'm Lin Schmitz👋
+ ### Hey, I'm Lin Schmitz👋
 <br/>
 💻  Open to work!
 <br/>
