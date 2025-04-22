@@ -1,17 +1,23 @@
  ### Hey, I'm Leilan👋
-<br/>
-💻  Open to work!
-<br/>
-
  
+A Frontend Developer with 5+ years of experience in React.js, JavaScript. 
+Interested in performance optimization and web standards. 
+Skilled in building scalable and high-performance web applications and solving complex challenges.
 
-### Socials:
-<p align="left">
-  
-<a href="https://www.twitter.com/NaLeilan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>   
-     
+
+### Skills:
+
+-	**Front-end:** Next.js – ReactJS – javaScript - Redux – Tailwind CSS
+-	**Test:** Jest, Vitest and React Testing Library
+-	**Database:** Oracle
+
+---
  
   
+### Links
 
+* [Twitter](https://x.com/)
+* [LinkedIn](https://www.linkedin.com/in/)
+* [Portfolio](https://)
 
  
