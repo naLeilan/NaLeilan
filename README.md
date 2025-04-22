@@ -1,4 +1,4 @@
- ### Hey, I'm Lin Schmitz👋
+ ### Hey, I'm Leilan👋
 <br/>
 💻  Open to work!
 <br/>
