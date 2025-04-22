@@ -15,7 +15,7 @@ Skilled in building scalable and high-performance web applications and solving c
 ---
  
   
-### Links
+### Links ( Comming soon)
 
 * [Twitter](https://x.com/)
 * [LinkedIn](https://www.linkedin.com/in/)
