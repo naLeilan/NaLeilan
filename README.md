@@ -1,8 +1,9 @@
  ### Hey, I'm Leilan👋
  
-A Frontend Developer with 5+ years of experience in React.js, JavaScript. 
+A Frontend Developer with 3+ years of experience in React.js, JavaScript. & (many years in Oracle :) ).
 Interested in performance optimization and web standards. 
 Skilled in building scalable and high-performance web applications and solving complex challenges.
+
 
 
 ### Skills:
