@@ -1,4 +1,4 @@
-🌍  I am a Front-End Developer based in Germany.
+🌍  I am a Front-End Developer.
 <br/>
 💻  Open to work!
 <br/>
