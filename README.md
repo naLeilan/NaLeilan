@@ -1,4 +1,4 @@
- ### Hey, I'm Leilan👋
+ ### Hey, I'm Lin👋
  
 A Frontend Developer with 3+ years of experience in React.js, JavaScript. 
 & (many years in Oracle 😊 ).
