@@ -18,7 +18,7 @@ Skilled in building scalable and high-performance web applications and solving c
   
 ### Links ( Comming soon)
 
-* [Twitter](https://x.com/)
+* [Twitter](https://x.com/lin.sch)
 * [LinkedIn](https://www.linkedin.com/in/)
 * [Portfolio](https://)
 
